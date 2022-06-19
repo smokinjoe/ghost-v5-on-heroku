@@ -1,4 +1,4 @@
-# [Ghost 4.X](https://github.com/TryGhost/Ghost) on [Heroku](https://heroku.com)
+# [Ghost 5.X](https://github.com/TryGhost/Ghost) on [Heroku](https://heroku.com)
 Ghost is world's most popular modern publishing platform for creating a new media platform. It has been used by Apple, SkyNews, Buffer, OpenAI, and thousands more.
 You can visit the project's website at <a href="https://ghost.org/" target="_blank">https://ghost.org</a>, or read the docs on <a href="https://ghost.org/docs" target="_blank">https://ghost.org/docs</a>.
 
