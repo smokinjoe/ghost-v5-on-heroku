@@ -7,7 +7,7 @@
     "postdeploy": "bin/init-deployment"
   },
   "success_url": "/ghost",
-  "addons": ["cleardb", "mailgun", "cloudinary"],
+  "addons": ["jawsdb", "mailgun", "cloudinary"],
   "env": {
     "APP_PUBLIC_URL": {
       "description": "Complete URL of your app including https (You can change it later in Config Vars)",
