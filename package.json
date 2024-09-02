@@ -5,7 +5,7 @@
   "main": "thelovekesh.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/perpetuallight/ghost-v5-on-heroku.git"
+    "url": "git+https://github.com/smokinjoe/ghost-v5-on-heroku.git"
   },
   "keywords": [
     "ghost",
@@ -15,9 +15,9 @@
   "author": "thelovekesh",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/perpetuallight/ghost-v5-on-heroku/issues"
+    "url": "https://github.com/smokinjoe/ghost-v5-on-heroku/issues"
   },
-  "homepage": "https://github.com/perpetuallight/ghost-v5-on-heroku#readme",
+  "homepage": "https://github.com/smokinjoe/ghost-v5-on-heroku#readme",
   "engines": {
     "node": "14.X"
   },
